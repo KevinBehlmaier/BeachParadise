@@ -1,0 +1,22 @@
+html {
+  text-align: center;
+  font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+  background-image: url(https://www.gtreview.com/wp-content/uploads/2014/11/Sky-Clouds.jpg);
+}
+
+h1,
+h2 {
+  color: DarkGreen;
+}
+
+h3 {
+  color: SeaGreen;
+}
+
+p {
+  opacity: .75;
+}
+
+li {
+  list-style-position: inside;
+}
